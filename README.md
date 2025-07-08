@@ -22,4 +22,5 @@
 
 安全且隐私保护
 我们非常重视用户的隐私安全。网站采用了高标准的加密技术，确保你的个人信息不被泄露。同时，所有的影片都来自合法渠道，符合合规要求，提供的是正版资源，让你观看无忧。
-<span style="display:none;">[Canonical link](）</span>
+
+<span style="display:none;">[Canonical link](https://github.com/yan7852/35899 ）</span>
